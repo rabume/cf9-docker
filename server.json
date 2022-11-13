@@ -1,0 +1,10 @@
+{
+    "profile": "development",
+    "app": {
+        "cfengine": "adobe@9.0"
+    },
+    "web": {
+        "directoryBrowsing": false,
+        "blockCFAdmin": "false"
+    }
+}
